@@ -1,6 +1,6 @@
 # SKU-Cleaning-Web-App
 ## Overview
-The SKU Cleaning Web App is designed to upload, validate, and update SKU (Stock Keeping Unit) data in an Excel file format. The application performs several validation checks on the uploaded data, filters out invalid records, updates existing records in the database, and allows users to download a sample file. (code can be found in webapp branch)
+The SKU Cleaning Web App is designed to upload, validate, and update SKU (Stock Keeping Unit) data in an Excel file format. The application performs several validation checks on the uploaded data, filters out invalid records, updates existing records in the database, and allows users to download a sample file. **(code can be found in webapp branch)**
 
 ## Project Structure
 The project consists of two main files:
