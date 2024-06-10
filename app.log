@@ -1,0 +1,361 @@
+2024-05-20 16:49:54,806,806 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-20 16:49:54,859,859 INFO     [validation.py:19] Loading Master Files...
+2024-05-20 16:49:55,795,795 WARNING  [_internal.py:96]  * Debugger is active!
+2024-05-20 16:49:55,808,808 INFO     [_internal.py:96]  * Debugger PIN: 423-946-852
+2024-05-20 17:10:59,945,945 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\OneDrive\\Documents\\SKU CLEANING WEB PORTAL\\Libraries.py', reloading
+2024-05-20 17:11:03,056,056 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-20 17:11:03,108,108 INFO     [validation.py:19] Loading Master Files...
+2024-05-20 17:11:03,970,970 WARNING  [_internal.py:96]  * Debugger is active!
+2024-05-20 17:11:03,996,996 INFO     [_internal.py:96]  * Debugger PIN: 423-946-852
+2024-05-21 11:25:41,964,964 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-21 11:25:42,020,020 INFO     [validation.py:19] Loading Master Files...
+2024-05-21 11:25:43,128,128 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-21 11:25:43,128,128 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-05-21 11:25:43,160,160 INFO     [_internal.py:96]  * Restarting with watchdog (windowsapi)
+2024-05-21 11:25:45,359,359 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-21 11:25:45,411,411 INFO     [validation.py:19] Loading Master Files...
+2024-05-21 11:25:46,123,123 WARNING  [_internal.py:96]  * Debugger is active!
+2024-05-21 11:25:46,138,138 INFO     [_internal.py:96]  * Debugger PIN: 423-946-852
+2024-05-21 11:26:18,029,029 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-21 11:26:18,078,078 INFO     [validation.py:19] Loading Master Files...
+2024-05-21 11:26:18,874,874 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-21 11:26:18,874,874 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-05-21 11:26:18,894,894 INFO     [_internal.py:96]  * Restarting with watchdog (windowsapi)
+2024-05-21 11:26:20,876,876 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-21 11:26:20,909,909 INFO     [validation.py:19] Loading Master Files...
+2024-05-21 11:26:21,620,620 WARNING  [_internal.py:96]  * Debugger is active!
+2024-05-21 11:26:21,636,636 INFO     [_internal.py:96]  * Debugger PIN: 423-946-852
+2024-05-21 11:27:29,408,408 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-21 11:27:29,446,446 INFO     [validation.py:19] Loading Master Files...
+2024-05-21 11:27:30,224,224 INFO     [_internal.py:96] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-21 11:27:30,232,232 INFO     [_internal.py:96] [33mPress CTRL+C to quit[0m
+2024-05-21 11:27:30,247,247 INFO     [_internal.py:96]  * Restarting with watchdog (windowsapi)
+2024-05-21 11:27:32,129,129 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-21 11:27:32,163,163 INFO     [validation.py:19] Loading Master Files...
+2024-05-21 11:27:32,892,892 WARNING  [_internal.py:96]  * Debugger is active!
+2024-05-21 11:27:32,907,907 INFO     [_internal.py:96]  * Debugger PIN: 423-946-852
+2024-05-21 11:27:41,396,396 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\mysql\\connector\\__init__.py', reloading
+2024-05-21 11:27:41,463,463 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\sqlalchemy\\orm\\__init__.py', reloading
+2024-05-21 11:27:41,546,546 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\sqlalchemy\\orm\\scoping.py', reloading
+2024-05-21 11:27:41,715,715 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\sqlalchemy\\orm\\session.py', reloading
+2024-05-21 11:27:42,540,540 INFO     [_internal.py:96]  * Restarting with watchdog (windowsapi)
+2024-05-21 11:27:45,045,045 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-21 11:27:45,079,079 INFO     [validation.py:19] Loading Master Files...
+2024-05-21 11:27:45,828,828 WARNING  [_internal.py:96]  * Debugger is active!
+2024-05-21 11:27:45,844,844 INFO     [_internal.py:96]  * Debugger PIN: 423-946-852
+2024-05-21 11:28:26,213,213 INFO     [_internal.py:96] 127.0.0.1 - - [21/May/2024 11:28:26] "GET / HTTP/1.1" 200 -
+2024-05-21 11:28:26,720,720 INFO     [_internal.py:96] 127.0.0.1 - - [21/May/2024 11:28:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-21 11:31:48,783,783 INFO     [validation.py:77] Applying Validations...
+2024-05-21 11:31:54,344,344 INFO     [_internal.py:96] 127.0.0.1 - - [21/May/2024 11:31:54] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-05-21 11:31:54,415,415 INFO     [_internal.py:96] 127.0.0.1 - - [21/May/2024 11:31:54] "GET /uploads/sample_file.xlsx?records_updated=1&records_uncleaned=54 HTTP/1.1" 200 -
+2024-05-21 11:32:10,639,639 INFO     [_internal.py:96] 127.0.0.1 - - [21/May/2024 11:32:10] "GET / HTTP/1.1" 200 -
+2024-05-21 11:32:15,118,118 INFO     [validation.py:77] Applying Validations...
+2024-05-21 11:32:16,419,419 INFO     [_internal.py:96] 127.0.0.1 - - [21/May/2024 11:32:16] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-05-21 11:32:16,455,455 INFO     [_internal.py:96] 127.0.0.1 - - [21/May/2024 11:32:16] "GET /uploads/sample_file.xlsx?records_updated=0&records_uncleaned=55 HTTP/1.1" 200 -
+2024-05-21 11:32:33,078,078 INFO     [_internal.py:96] 127.0.0.1 - - [21/May/2024 11:32:33] "GET /download_uncleaned/sample_file.xlsx HTTP/1.1" 200 -
+2024-05-21 11:33:59,451,451 INFO     [_internal.py:96] 127.0.0.1 - - [21/May/2024 11:33:59] "GET / HTTP/1.1" 200 -
+2024-05-21 11:37:02,069,069 INFO     [_internal.py:96] 127.0.0.1 - - [21/May/2024 11:37:02] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-05-21 11:37:02,084,084 INFO     [_internal.py:96] 127.0.0.1 - - [21/May/2024 11:37:02] "GET / HTTP/1.1" 200 -
+2024-05-21 13:05:45,623,623 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Scripts\\conda-script.py', reloading
+2024-05-21 13:05:46,835,835 INFO     [_internal.py:96]  * Restarting with watchdog (windowsapi)
+2024-05-21 13:05:50,249,249 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-21 13:05:50,321,321 INFO     [validation.py:19] Loading Master Files...
+2024-05-21 13:05:51,490,490 WARNING  [_internal.py:96]  * Debugger is active!
+2024-05-21 13:05:51,506,506 INFO     [_internal.py:96]  * Debugger PIN: 423-946-852
+2024-05-21 13:06:07,868,868 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\configparser.py', reloading
+2024-05-21 13:06:08,217,217 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\datetime.py', reloading
+2024-05-21 13:06:08,584,584 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\socket.py', reloading
+2024-05-21 13:06:09,401,401 INFO     [_internal.py:96]  * Restarting with watchdog (windowsapi)
+2024-05-21 13:06:14,286,286 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-21 13:06:14,407,407 INFO     [validation.py:19] Loading Master Files...
+2024-05-21 13:06:16,283,283 WARNING  [_internal.py:96]  * Debugger is active!
+2024-05-21 13:06:16,307,307 INFO     [_internal.py:96]  * Debugger PIN: 423-946-852
+2024-05-21 13:06:16,411,411 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\anyio\\__init__.py', reloading
+2024-05-21 13:06:16,443,443 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\anyio\\_core\\_compat.py', reloading
+2024-05-21 13:06:16,459,459 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\anyio\\_core\\_eventloop.py', reloading
+2024-05-21 13:06:16,491,491 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\anyio\\_core\\_exceptions.py', reloading
+2024-05-21 13:06:16,515,515 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\anyio\\_core\\_fileio.py', reloading
+2024-05-21 13:06:16,540,540 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\anyio\\_core\\_resources.py', reloading
+2024-05-21 13:06:16,564,564 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\anyio\\_core\\_signals.py', reloading
+2024-05-21 13:06:16,581,581 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\anyio\\_core\\_sockets.py', reloading
+2024-05-21 13:06:16,613,613 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\anyio\\_core\\_streams.py', reloading
+2024-05-21 13:06:16,637,637 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\anyio\\_core\\_subprocesses.py', reloading
+2024-05-21 13:06:16,661,661 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\anyio\\_core\\_synchronization.py', reloading
+2024-05-21 13:06:16,689,689 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\anyio\\_core\\_tasks.py', reloading
+2024-05-21 13:06:16,705,705 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\anyio\\_core\\_testing.py', reloading
+2024-05-21 13:06:16,727,727 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\anyio\\_core\\_typedattr.py', reloading
+2024-05-21 13:06:16,759,759 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\anyio\\to_thread.py', reloading
+2024-05-21 13:06:16,791,791 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\anyio\\from_thread.py', reloading
+2024-05-21 13:06:16,839,839 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\argon2\\__init__.py', reloading
+2024-05-21 13:06:16,863,863 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\argon2\\_legacy.py', reloading
+2024-05-21 13:06:16,887,887 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\argon2\\_password_hasher.py', reloading
+2024-05-21 13:06:16,911,911 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\argon2\\_utils.py', reloading
+2024-05-21 13:06:16,935,935 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\argon2\\low_level.py', reloading
+2024-05-21 13:06:16,959,959 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\arrow\\__init__.py', reloading
+2024-05-21 13:06:16,975,975 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\arrow\\_version.py', reloading
+2024-05-21 13:06:16,991,991 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\arrow\\api.py', reloading
+2024-05-21 13:06:17,023,023 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\arrow\\arrow.py', reloading
+2024-05-21 13:06:17,071,071 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\arrow\\factory.py', reloading
+2024-05-21 13:06:17,087,087 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\arrow\\formatter.py', reloading
+2024-05-21 13:06:17,111,111 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\arrow\\parser.py', reloading
+2024-05-21 13:06:17,135,135 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\astroid\\__init__.py', reloading
+2024-05-21 13:06:17,175,175 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\astropy\\__init__.py', reloading
+2024-05-21 13:06:17,183,183 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\asttokens\\__init__.py', reloading
+2024-05-21 13:06:17,199,199 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\async_timeout\\__init__.py', reloading
+2024-05-21 13:06:17,217,217 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\atomicwrites\\__init__.py', reloading
+2024-05-21 13:06:17,281,281 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\automat\\__init__.py', reloading
+2024-05-21 13:06:17,297,297 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\automat\\_methodical.py', reloading
+2024-05-21 13:06:17,321,321 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\automat\\_core.py', reloading
+2024-05-21 13:06:17,337,337 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\babel\\__init__.py', reloading
+2024-05-21 13:06:17,345,345 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\backcall\\__init__.py', reloading
+2024-05-21 13:06:17,361,361 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\backoff\\__init__.py', reloading
+2024-05-21 13:06:17,385,385 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\backoff\\_decorator.py', reloading
+2024-05-21 13:06:17,773,773 INFO     [_internal.py:96]  * Restarting with watchdog (windowsapi)
+2024-05-21 13:06:22,831,831 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-21 13:06:22,935,935 INFO     [validation.py:19] Loading Master Files...
+2024-05-21 13:06:24,371,371 WARNING  [_internal.py:96]  * Debugger is active!
+2024-05-21 13:06:24,395,395 INFO     [_internal.py:96]  * Debugger PIN: 423-946-852
+2024-05-21 13:06:24,461,461 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\collection\\isdict_containingvalue.py', reloading
+2024-05-21 13:06:24,469,469 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\collection\\isin.py', reloading
+2024-05-21 13:06:24,477,477 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\collection\\is_empty.py', reloading
+2024-05-21 13:06:24,493,493 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\collection\\issequence_containing.py', reloading
+2024-05-21 13:06:24,517,517 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\collection\\issequence_containinginanyorder.py', reloading
+2024-05-21 13:06:24,525,525 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\collection\\issequence_containinginorder.py', reloading
+2024-05-21 13:06:24,542,542 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\collection\\issequence_onlycontaining.py', reloading
+2024-05-21 13:06:24,550,550 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\integration\\match_equality.py', reloading
+2024-05-21 13:06:24,567,567 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\text\\stringmatches.py', reloading
+2024-05-21 13:06:24,583,583 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\number\\iscloseto.py', reloading
+2024-05-21 13:06:24,591,591 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\number\\ordering_comparison.py', reloading
+2024-05-21 13:06:24,608,608 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\object\\haslength.py', reloading
+2024-05-21 13:06:24,624,624 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\object\\hasproperty.py', reloading
+2024-05-21 13:06:24,640,640 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\object\\hasstring.py', reloading
+2024-05-21 13:06:24,648,648 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\text\\isequal_ignoring_case.py', reloading
+2024-05-21 13:06:24,657,657 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\text\\isequal_ignoring_whitespace.py', reloading
+2024-05-21 13:06:24,673,673 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\text\\stringcontains.py', reloading
+2024-05-21 13:06:24,681,681 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\text\\stringendswith.py', reloading
+2024-05-21 13:06:24,699,699 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\text\\stringstartswith.py', reloading
+2024-05-21 13:06:24,707,707 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hamcrest\\library\\text\\stringcontainsinorder.py', reloading
+2024-05-21 13:06:24,723,723 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\holoviews\\__init__.py', reloading
+2024-05-21 13:06:24,764,764 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\holoviews\\element\\__init__.py', reloading
+2024-05-21 13:06:24,780,780 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\holoviews\\element\\annotation.py', reloading
+2024-05-21 13:06:24,796,796 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\holoviews\\element\\chart.py', reloading
+2024-05-21 13:06:24,812,812 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\holoviews\\element\\geom.py', reloading
+2024-05-21 13:06:24,820,820 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\holoviews\\element\\chart3d.py', reloading
+2024-05-21 13:06:24,836,836 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\holoviews\\element\\graphs.py', reloading
+2024-05-21 13:06:24,869,869 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\holoviews\\element\\path.py', reloading
+2024-05-21 13:06:24,885,885 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\holoviews\\element\\raster.py', reloading
+2024-05-21 13:06:24,901,901 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\holoviews\\element\\sankey.py', reloading
+2024-05-21 13:06:24,925,925 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\holoviews\\element\\stats.py', reloading
+2024-05-21 13:06:24,942,942 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\holoviews\\element\\tabular.py', reloading
+2024-05-21 13:06:24,958,958 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\holoviews\\element\\tiles.py', reloading
+2024-05-21 13:06:24,977,977 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\htmlmin\\__init__.py', reloading
+2024-05-21 13:06:24,994,994 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\huggingface_hub\\__init__.py', reloading
+2024-05-21 13:06:25,019,019 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hvplot\\__init__.py', reloading
+2024-05-21 13:06:25,027,027 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hyperlink\\__init__.py', reloading
+2024-05-21 13:06:25,051,051 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\hyperlink\\_url.py', reloading
+2024-05-21 13:06:25,083,083 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\idna\\__init__.py', reloading
+2024-05-21 13:06:25,099,099 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\idna\\core.py', reloading
+2024-05-21 13:06:25,115,115 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\idna\\intranges.py', reloading
+2024-05-21 13:06:25,131,131 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\imagecodecs\\__init__.py', reloading
+2024-05-21 13:06:25,148,148 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\imagecodecs\\imagecodecs.py', reloading
+2024-05-21 13:06:25,178,178 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\imageio\\__init__.py', reloading
+2024-05-21 13:06:25,228,228 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\imagesize\\__init__.py', reloading
+2024-05-21 13:06:25,244,244 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\imagesize\\imagesize.py', reloading
+2024-05-21 13:06:25,260,260 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\imblearn\\__init__.py', reloading
+2024-05-21 13:06:25,277,277 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\imblearn\\_version.py', reloading
+2024-05-21 13:06:25,301,301 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\imblearn\\base.py', reloading
+2024-05-21 13:06:25,343,343 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\importlib_metadata\\__init__.py', reloading
+2024-05-21 13:06:25,367,367 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\importlib_metadata\\_meta.py', reloading
+2024-05-21 13:06:25,393,393 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\incremental\\__init__.py', reloading
+2024-05-21 13:06:25,401,401 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\incremental\\_version.py', reloading
+2024-05-21 13:06:25,433,433 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\inflection\\__init__.py', reloading
+2024-05-21 13:06:25,458,458 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\intake\\__init__.py', reloading
+2024-05-21 13:06:25,855,855 INFO     [_internal.py:96]  * Restarting with watchdog (windowsapi)
+2024-05-21 13:06:29,048,048 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-21 13:06:29,101,101 INFO     [validation.py:19] Loading Master Files...
+2024-05-21 13:06:30,046,046 WARNING  [_internal.py:96]  * Debugger is active!
+2024-05-21 13:06:30,063,063 INFO     [_internal.py:96]  * Debugger PIN: 423-946-852
+2024-05-21 13:06:30,119,119 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\plotly\\version.py', reloading
+2024-05-21 13:06:30,127,127 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pluggy\\__init__.py', reloading
+2024-05-21 13:06:30,143,143 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pluggy\\_manager.py', reloading
+2024-05-21 13:06:30,143,143 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pluggy\\_callers.py', reloading
+2024-05-21 13:06:30,159,159 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pluggy\\_result.py', reloading
+2024-05-21 13:06:30,175,175 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pluggy\\_hooks.py', reloading
+2024-05-21 13:06:30,175,175 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\ply\\__init__.py', reloading
+2024-05-21 13:06:30,190,190 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pooch\\__init__.py', reloading
+2024-05-21 13:06:30,206,206 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\poyo\\__init__.py', reloading
+2024-05-21 13:06:30,206,206 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\poyo\\exceptions.py', reloading
+2024-05-21 13:06:30,221,221 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\poyo\\parser.py', reloading
+2024-05-21 13:06:30,221,221 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\premailer\\__init__.py', reloading
+2024-05-21 13:06:30,245,245 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prometheus_client\\__init__.py', reloading
+2024-05-21 13:06:30,261,261 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prometheus_client\\exposition.py', reloading
+2024-05-21 13:06:30,277,277 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prometheus_client\\asgi.py', reloading
+2024-05-21 13:06:30,277,277 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prometheus_client\\gc_collector.py', reloading
+2024-05-21 13:06:30,292,292 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prometheus_client\\metrics.py', reloading
+2024-05-21 13:06:30,321,321 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prometheus_client\\metrics_core.py', reloading
+2024-05-21 13:06:30,337,337 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prometheus_client\\platform_collector.py', reloading
+2024-05-21 13:06:30,346,346 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prometheus_client\\process_collector.py', reloading
+2024-05-21 13:06:30,359,359 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prometheus_client\\registry.py', reloading
+2024-05-21 13:06:30,367,367 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prompt_toolkit\\__init__.py', reloading
+2024-05-21 13:06:30,382,382 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prompt_toolkit\\application\\__init__.py', reloading
+2024-05-21 13:06:30,398,398 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prompt_toolkit\\application\\application.py', reloading
+2024-05-21 13:06:30,429,429 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prompt_toolkit\\formatted_text\\__init__.py', reloading
+2024-05-21 13:06:30,445,445 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prompt_toolkit\\formatted_text\\ansi.py', reloading
+2024-05-21 13:06:30,453,453 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prompt_toolkit\\formatted_text\\html.py', reloading
+2024-05-21 13:06:30,469,469 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prompt_toolkit\\shortcuts\\__init__.py', reloading
+2024-05-21 13:06:30,484,484 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prompt_toolkit\\shortcuts\\prompt.py', reloading
+2024-05-21 13:06:30,531,531 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\prompt_toolkit\\shortcuts\\utils.py', reloading
+2024-05-21 13:06:30,547,547 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\ptyprocess\\__init__.py', reloading
+2024-05-21 13:06:30,555,555 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pure_eval\\__init__.py', reloading
+2024-05-21 13:06:30,571,571 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pyasn1_modules\\__init__.py', reloading
+2024-05-21 13:06:30,579,579 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pycparser\\__init__.py', reloading
+2024-05-21 13:06:30,595,595 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pyct\\__init__.py', reloading
+2024-05-21 13:06:30,595,595 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pydispatch\\__init__.py', reloading
+2024-05-21 13:06:30,610,610 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pydocstyle\\__init__.py', reloading
+2024-05-21 13:06:30,610,610 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pygetwindow\\__init__.py', reloading
+2024-05-21 13:06:30,629,629 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pylint\\__init__.py', reloading
+2024-05-21 13:06:30,645,645 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pylint\\__pkginfo__.py', reloading
+2024-05-21 13:06:30,653,653 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pylsp\\__init__.py', reloading
+2024-05-21 13:06:30,669,669 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pylsp\\_version.py', reloading
+2024-05-21 13:06:30,669,669 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pylsp_jsonrpc\\__init__.py', reloading
+2024-05-21 13:06:30,685,685 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pyls_spyder\\__init__.py', reloading
+2024-05-21 13:06:30,685,685 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pymsgbox\\__init__.py', reloading
+2024-05-21 13:06:30,701,701 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pyparsing\\__init__.py', reloading
+2024-05-21 13:06:30,716,716 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pyparsing\\util.py', reloading
+2024-05-21 13:06:30,732,732 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pyparsing\\exceptions.py', reloading
+2024-05-21 13:06:30,747,747 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pyparsing\\actions.py', reloading
+2024-05-21 13:06:30,763,763 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pyparsing\\results.py', reloading
+2024-05-21 13:06:30,776,776 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pyparsing\\core.py', reloading
+2024-05-21 13:06:30,818,818 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pyparsing\\helpers.py', reloading
+2024-05-21 13:06:30,846,846 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pyparsing\\unicode.py', reloading
+2024-05-21 13:06:30,996,996 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pyperclip\\__init__.py', reloading
+2024-05-21 13:06:31,043,043 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\PyQt5\\__init__.py', reloading
+2024-05-21 13:06:31,059,059 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pyrect\\__init__.py', reloading
+2024-05-21 13:06:31,107,107 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\pytest\\__init__.py', reloading
+2024-05-21 13:06:31,418,418 INFO     [_internal.py:96]  * Restarting with watchdog (windowsapi)
+2024-05-21 13:06:33,700,700 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-21 13:06:33,748,748 INFO     [validation.py:19] Loading Master Files...
+2024-05-21 13:06:34,670,670 WARNING  [_internal.py:96]  * Debugger is active!
+2024-05-21 13:06:34,685,685 INFO     [_internal.py:96]  * Debugger PIN: 423-946-852
+2024-05-21 13:06:34,717,717 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_construct.py', reloading
+2024-05-21 13:06:34,732,732 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_extract.py', reloading
+2024-05-21 13:06:34,748,748 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_matrix_io.py', reloading
+2024-05-21 13:06:34,764,764 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\__init__.py', reloading
+2024-05-21 13:06:34,780,780 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\_kdtree.py', reloading
+2024-05-21 13:06:34,811,811 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\_plotutils.py', reloading
+2024-05-21 13:06:34,827,827 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\special\\__init__.py', reloading
+2024-05-21 13:06:34,903,903 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\special\\_basic.py', reloading
+2024-05-21 13:06:34,950,950 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\stats\\__init__.py', reloading
+2024-05-21 13:06:34,990,990 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_stats_py.py', reloading
+2024-05-21 13:06:35,029,029 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\stats\\distributions.py', reloading
+2024-05-21 13:06:35,061,061 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_continuous_distns.py', reloading
+2024-05-21 13:06:35,125,125 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_discrete_distns.py', reloading
+2024-05-21 13:06:35,188,188 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_morestats.py', reloading
+2024-05-21 13:06:35,212,212 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_binned_statistic.py', reloading
+2024-05-21 13:06:35,235,235 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_multivariate.py', reloading
+2024-05-21 13:06:35,267,267 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_entropy.py', reloading
+2024-05-21 13:06:35,318,318 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_hypotests.py', reloading
+2024-05-21 13:06:35,345,345 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scrapy\\__init__.py', reloading
+2024-05-21 13:06:35,386,386 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scrapy\\http\\__init__.py', reloading
+2024-05-21 13:06:35,403,403 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scrapy\\http\\request\\form.py', reloading
+2024-05-21 13:06:35,427,427 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scrapy\\http\\request\\__init__.py', reloading
+2024-05-21 13:06:35,458,458 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scrapy\\item.py', reloading
+2024-05-21 13:06:35,474,474 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scrapy\\selector\\__init__.py', reloading
+2024-05-21 13:06:35,490,490 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scrapy\\selector\\unified.py', reloading
+2024-05-21 13:06:35,505,505 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\scrapy\\spiders\\__init__.py', reloading
+2024-05-21 13:06:35,505,505 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\service_identity\\__init__.py', reloading
+2024-05-21 13:06:35,529,529 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\service_identity\\exceptions.py', reloading
+2024-05-21 13:06:35,545,545 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\shellingham\\__init__.py', reloading
+2024-05-21 13:06:35,545,545 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\sipbuild\\__init__.py', reloading
+2024-05-21 13:06:35,561,561 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\sklearnex\\__init__.py', reloading
+2024-05-21 13:06:35,576,576 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\sklearnex\\dispatcher.py', reloading
+2024-05-21 13:06:35,592,592 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\sklearnex\\_config.py', reloading
+2024-05-21 13:06:35,624,624 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\smart_open\\__init__.py', reloading
+2024-05-21 13:06:35,640,640 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\smart_open\\smart_open_lib.py', reloading
+2024-05-21 13:06:35,656,656 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\smart_open\\compression.py', reloading
+2024-05-21 13:06:35,656,656 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\smmap\\__init__.py', reloading
+2024-05-21 13:06:35,672,672 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\snappy\\__init__.py', reloading
+2024-05-21 13:06:35,672,672 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\sniffio\\__init__.py', reloading
+2024-05-21 13:06:35,688,688 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\sniffio\\_impl.py', reloading
+2024-05-21 13:06:35,688,688 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\snowballstemmer\\__init__.py', reloading
+2024-05-21 13:06:35,719,719 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\sortedcontainers\\__init__.py', reloading
+2024-05-21 13:06:36,046,046 INFO     [_internal.py:96]  * Restarting with watchdog (windowsapi)
+2024-05-21 13:06:38,502,502 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-21 13:06:38,561,561 INFO     [validation.py:19] Loading Master Files...
+2024-05-21 13:06:39,563,563 WARNING  [_internal.py:96]  * Debugger is active!
+2024-05-21 13:06:39,579,579 INFO     [_internal.py:96]  * Debugger PIN: 423-946-852
+2024-05-21 13:06:39,635,635 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\wcwidth\\__init__.py', reloading
+2024-05-21 13:06:39,643,643 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\wcwidth\\wcwidth.py', reloading
+2024-05-21 13:06:39,659,659 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\wcwidth\\unicode_versions.py', reloading
+2024-05-21 13:06:39,667,667 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\webencodings\\__init__.py', reloading
+2024-05-21 13:06:39,676,676 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\websocket\\__init__.py', reloading
+2024-05-21 13:06:39,684,684 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\werkzeug\\__init__.py', reloading
+2024-05-21 13:06:39,700,700 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+2024-05-21 13:06:39,732,732 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\werkzeug\\test.py', reloading
+2024-05-21 13:06:39,732,732 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2024-05-21 13:06:39,732,732 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2024-05-21 13:06:39,747,747 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2024-05-21 13:06:39,763,763 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\wheel\\__init__.py', reloading
+2024-05-21 13:06:39,771,771 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\widgetsnbextension\\__init__.py', reloading
+2024-05-21 13:06:39,779,779 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\win32ctypes\\__init__.py', reloading
+2024-05-21 13:06:39,779,779 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\winpty\\__init__.py', reloading
+2024-05-21 13:06:39,795,795 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\wrapt\\__init__.py', reloading
+2024-05-21 13:06:39,811,811 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\__init__.py', reloading
+2024-05-21 13:06:39,827,827 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\backends\\api.py', reloading
+2024-05-21 13:06:39,852,852 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\backends\\rasterio_.py', reloading
+2024-05-21 13:06:39,868,868 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\backends\\zarr.py', reloading
+2024-05-21 13:06:39,884,884 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\coding\\cftime_offsets.py', reloading
+2024-05-21 13:06:39,900,900 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\coding\\cftimeindex.py', reloading
+2024-05-21 13:06:39,915,915 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\coding\\frequencies.py', reloading
+2024-05-21 13:06:39,931,931 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\conventions.py', reloading
+2024-05-21 13:06:39,946,946 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\coding\\variables.py', reloading
+2024-05-21 13:06:39,962,962 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\core\\alignment.py', reloading
+2024-05-21 13:06:39,978,978 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\core\\combine.py', reloading
+2024-05-21 13:06:40,002,002 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\core\\common.py', reloading
+2024-05-21 13:06:40,017,017 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\core\\computation.py', reloading
+2024-05-21 13:06:40,033,033 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\core\\concat.py', reloading
+2024-05-21 13:06:40,048,048 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\core\\dataarray.py', reloading
+2024-05-21 13:06:40,089,089 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\core\\dataset.py', reloading
+2024-05-21 13:06:40,129,129 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\core\\extensions.py', reloading
+2024-05-21 13:06:40,144,144 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\core\\merge.py', reloading
+2024-05-21 13:06:40,160,160 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\core\\options.py', reloading
+2024-05-21 13:06:40,185,185 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\core\\parallel.py', reloading
+2024-05-21 13:06:40,197,197 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\core\\variable.py', reloading
+2024-05-21 13:06:40,221,221 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xarray\\util\\print_versions.py', reloading
+2024-05-21 13:06:40,237,237 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xlrd\\__init__.py', reloading
+2024-05-21 13:06:40,268,268 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xlrd\\formula.py', reloading
+2024-05-21 13:06:40,300,300 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xlrd\\timemachine.py', reloading
+2024-05-21 13:06:40,327,327 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xlsx2html\\__init__.py', reloading
+2024-05-21 13:06:40,344,344 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xlsx2html\\core.py', reloading
+2024-05-21 13:06:40,368,368 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xlsxwriter\\__init__.py', reloading
+2024-05-21 13:06:40,384,384 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xlwings\\__init__.py', reloading
+2024-05-21 13:06:40,418,418 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\xlwings\\main.py', reloading
+2024-05-21 13:06:40,481,481 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\yapf\\__init__.py', reloading
+2024-05-21 13:06:40,481,481 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\yapftests\\__init__.py', reloading
+2024-05-21 13:06:40,496,496 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\zict\\__init__.py', reloading
+2024-05-21 13:06:40,512,512 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\zipp\\__init__.py', reloading
+2024-05-21 13:06:40,543,543 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\zmq\\constants.py', reloading
+2024-05-21 13:06:40,559,559 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\zmq\\error.py', reloading
+2024-05-21 13:06:40,574,574 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\zmq\\sugar\\context.py', reloading
+2024-05-21 13:06:40,590,590 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\zmq\\sugar\\frame.py', reloading
+2024-05-21 13:06:40,606,606 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\zmq\\sugar\\poll.py', reloading
+2024-05-21 13:06:40,621,621 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\site-packages\\zmq\\sugar\\socket.py', reloading
+2024-05-21 13:06:40,930,930 INFO     [_internal.py:96]  * Restarting with watchdog (windowsapi)
+2024-05-21 13:06:43,157,157 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-21 13:06:43,203,203 INFO     [validation.py:19] Loading Master Files...
+2024-05-21 13:06:44,028,028 WARNING  [_internal.py:96]  * Debugger is active!
+2024-05-21 13:06:44,028,028 INFO     [_internal.py:96]  * Debugger PIN: 423-946-852
+2024-05-21 13:07:07,776,776 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\smtplib.py', reloading
+2024-05-21 13:07:07,928,928 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\email\\mime\\multipart.py', reloading
+2024-05-21 13:07:07,944,944 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\email\\mime\\text.py', reloading
+2024-05-21 13:07:07,960,960 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\anaconda3\\Lib\\email\\mime\\application.py', reloading
+2024-05-21 13:07:08,713,713 INFO     [_internal.py:96]  * Restarting with watchdog (windowsapi)
+2024-05-21 13:07:10,804,804 INFO     [connection.py:7] Connecting to UAT Database...
+2024-05-21 13:07:10,873,873 INFO     [validation.py:19] Loading Master Files...
+2024-05-21 13:07:11,687,687 WARNING  [_internal.py:96]  * Debugger is active!
+2024-05-21 13:07:11,687,687 INFO     [_internal.py:96]  * Debugger PIN: 423-946-852
+2024-05-21 13:28:47,589,589 INFO     [_internal.py:96]  * Detected change in 'C:\\Users\\PC\\OneDrive\\Documents\\SKU CLEANING WEB PORTAL\\validation.py', reloading
+2024-05-21 13:28:48,455,455 INFO     [_internal.py:96]  * Restarting with watchdog (windowsapi)
