@@ -74,3 +74,7 @@ Open your web browser and go to `http://127.0.0.1:5000`.
   - pandas
   - sqlalchemy
   - tqdm
+## Demonstration
+![Screenshot_12-6-2024_13270_127 0 0 1](https://github.com/Eesha723/SKU-Cleaning-Web-App/assets/81686688/e819910a-f61b-45f7-8a98-37c8cd70f620)
+![Screenshot_12-6-2024_133059_127 0 0 1](https://github.com/Eesha723/SKU-Cleaning-Web-App/assets/81686688/dc9f570a-c0b3-4be0-ae62-4a9f8df23a1c)
+
